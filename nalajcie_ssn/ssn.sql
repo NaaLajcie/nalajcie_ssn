@@ -1,0 +1,2 @@
+ALTER TABLE `users`
+ADD COLUMN `ssn` int(11) DEFAULT NULL;
