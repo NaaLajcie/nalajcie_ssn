@@ -15,7 +15,6 @@ description 'NaLajcie System SSN'
 server_scripts {
     '@oxmysql/lib/MySQL.lua',
     'server/server.lua.lua',
-    'config.lua',
 }
 
 -- [[ Shared Scripts]] --
